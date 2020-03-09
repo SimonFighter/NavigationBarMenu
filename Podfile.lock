@@ -1,0 +1,36 @@
+PODS:
+  - SnapKit (4.0.0)
+  - SwifterSwift (4.4.0):
+    - SwifterSwift/AppKit (= 4.4.0)
+    - SwifterSwift/CoreGraphics (= 4.4.0)
+    - SwifterSwift/CoreLocation (= 4.4.0)
+    - SwifterSwift/Foundation (= 4.4.0)
+    - SwifterSwift/MapKit (= 4.4.0)
+    - SwifterSwift/SpriteKit (= 4.4.0)
+    - SwifterSwift/SwiftStdlib (= 4.4.0)
+    - SwifterSwift/UIKit (= 4.4.0)
+  - SwifterSwift/AppKit (4.4.0)
+  - SwifterSwift/CoreGraphics (4.4.0)
+  - SwifterSwift/CoreLocation (4.4.0)
+  - SwifterSwift/Foundation (4.4.0)
+  - SwifterSwift/MapKit (4.4.0)
+  - SwifterSwift/SpriteKit (4.4.0)
+  - SwifterSwift/SwiftStdlib (4.4.0)
+  - SwifterSwift/UIKit (4.4.0)
+
+DEPENDENCIES:
+  - SnapKit
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwifterSwift: 1ce0e31801ddd3a2bd3256626275425adb01067a
+
+PODFILE CHECKSUM: 6dc0398b8365b619cc4551fb884a2dc63c645753
+
+COCOAPODS: 1.5.3
